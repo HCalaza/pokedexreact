@@ -1,0 +1,10 @@
+.displayText {
+  display: flex;
+  flex-direction: row;
+  margin:0 5%;
+}
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}

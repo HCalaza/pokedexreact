@@ -1,0 +1,15 @@
+.contentText {
+  /* width: 30vmin; */
+  margin-left: 2vmin;
+  margin-right: 1vmin;
+  flex-grow: 1;
+}
+
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  color: #0b5d1e;
+}
+p {
+  font-family: "Cabin", sans-serif;
+  line-height: 1.8;
+}
